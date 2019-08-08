@@ -1,0 +1,109 @@
+body
+{
+    background-color: #fdf6e3;
+    color: #657b83;
+    font-family: "Book Antiqua";
+}
+
+#welcome
+{
+    color: #268bd2;
+    text-align: center;
+}
+
+header
+{
+    background-color: #eee8d5;
+    text-align: center;
+}
+
+a
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color: #002b36; 
+     text-decoration: none; 
+     cursor: pointer;  
+}
+
+ul
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 10;
+}
+
+#me
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 25px;
+}
+
+p
+{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer
+{
+    text-align: center;
+    color: #93a1a1;
+    padding: 50px;
+}
+
+
+#publication_list
+{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.publication
+{
+    padding: 10px;
+}
+
+h5
+{
+    text-align: center;
+}
+
+.photo
+{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.container
+{
+    text-align: center;
+}
+
+.category
+{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    padding: 50px;
+}
+
+.icon
+{
+    width: 60px;
+}
